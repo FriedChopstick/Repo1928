@@ -2,7 +2,7 @@ public class Train {
     Boolean onFire;
     public Train (Boolean onFire) {
         this.onFire = onFire;
-        onFire = false;
+        this.onFire = false;
     }
 
     public Boolean getOnFire() {
