@@ -7,5 +7,6 @@ public class Main {
         Train mta = new Train(true);
         Boolean trainStatus = mta.getOnFire();
         System.out.println(trainStatus);
+        System.out.println("Hello!");
     }
 }
