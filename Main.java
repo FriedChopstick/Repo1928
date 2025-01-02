@@ -8,5 +8,6 @@ public class Main {
         Boolean trainStatus = mta.getOnFire();
         System.out.println(trainStatus);
         System.out.println("Hello!");
+        System.out.println("World!");
     }
 }
